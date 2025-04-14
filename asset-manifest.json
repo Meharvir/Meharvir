@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mehar/static/css/main.1b4e259e.css",
+    "main.js": "/Mehar/static/js/main.7c24fdaa.js",
+    "static/js/453.d92e74e6.chunk.js": "/Mehar/static/js/453.d92e74e6.chunk.js",
+    "index.html": "/Mehar/index.html",
+    "main.1b4e259e.css.map": "/Mehar/static/css/main.1b4e259e.css.map",
+    "main.7c24fdaa.js.map": "/Mehar/static/js/main.7c24fdaa.js.map",
+    "453.d92e74e6.chunk.js.map": "/Mehar/static/js/453.d92e74e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4e259e.css",
+    "static/js/main.7c24fdaa.js"
+  ]
+}
